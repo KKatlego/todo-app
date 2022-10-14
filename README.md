@@ -1,6 +1,6 @@
 # Quasar Todo (quasar-todo)
 
-A Quasar todo app
+A Vue.js Quasar todo app
 
 ## Install the dependencies
 ```bash
