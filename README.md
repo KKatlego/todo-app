@@ -1,5 +1,5 @@
 # todo-app
 A todo quasar app created using quasar
 
-## To run
+### To run
 quasar dev
