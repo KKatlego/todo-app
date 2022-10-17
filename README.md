@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Quasar Todo (quasar-todo)
 
-A Quasar todo app
+A Vue.js Quasar todo app
 
 ## Install the dependencies
 ```bash
@@ -26,10 +25,3 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quas
 
 ### Design and Tutorial
 Make apps with Danny
-=======
-# todo-app
-A todo vue.js app created using quasar
-
-### To run
-quasar dev
->>>>>>> 2d351d4232ca4be398c6f794879472d96390b91f
